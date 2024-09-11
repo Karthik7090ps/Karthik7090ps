@@ -1,9 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/your-username)
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Karthik P S</h1>
 <h3 align="center">Engineering Student | Robotics Enthusiast | AI & Computer Vision Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Karthik7090ps&label=Profile%20views&color=0e75b6&style=flat" alt="Karthik7090ps" /> </p>
 
 <p align="left"> <a href="https://twitter.com/your-twitter-handle" target="blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?logo=twitter&style=for-the-badge" alt="your-twitter-handle" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 🤖 Ask me about **Robotics, Embedded Systems, and Computer Vision**
 
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **karthikreddyr02@gmail.com**
 
 - ⚡ Fun fact: **I'm a huge fan of integrating AI into robotics to solve real-world problems!**
 
