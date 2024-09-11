@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karthik7090ps&label=Profile%20views&color=ff69b4&style=flat-square" alt="Karthik7090ps" /> </p>
 
-<p align="left"> <a href="https://twitter.com/your-twitter-handle" target="blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?logo=twitter&style=for-the-badge&logoColor=ff69b4&color=0e75b6" alt="your-twitter-handle" /></a> </p>
+<p align="left"> <a href="https://twitter.com/twitter-handle" target="blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?logo=twitter&style=for-the-badge&logoColor=ff69b4&color=0e75b6" alt="twitter-handle" /></a> </p>
 
 - 🔭 I’m currently working on **Autonomous Robotic Systems and AI-driven Computer Vision**
 - 🌱 I’m currently learning **Deep Learning**, **Reinforcement Learning** for Robotics
@@ -16,9 +16,9 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="your-linkedin-profile" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="your-instagram-handle" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/your-youtube-channel" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="your-youtube-channel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karthik7090ps/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Karthik7090ps" height="50" width="100" /></a>
+<a href="https://instagram.com/your-instagram-handle" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-handle" height="50" width="100" /></a>
+<a href="https://www.youtube.com/@karthik7090ps" target="blank"><img align="center" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube-channel" height="50" width="100" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
