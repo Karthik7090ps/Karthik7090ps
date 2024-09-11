@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Karthik7090ps&label=Profile%20views&color=ff69b4&style=flat-square" alt="Karthik7090ps" /> </p>
 
-<p align="left"> <a href="https://twitter.com/twitter-handle" target="blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?logo=twitter&style=for-the-badge&logoColor=ff69b4&color=0e75b6" alt="twitter-handle" /></a> </p>
+<p align="left"> <a href="https://twitter.com/twitter-handle" target="blank"><img src="https://img.shields.io/twitter/follow/twitter-handle?logo=twitter&style=for-the-badge&logoColor=ff69b4&color=0e75b6" alt="twitter-handle" /></a> </p>
 
 - 🔭 I’m currently working on **Autonomous Robotic Systems and AI-driven Computer Vision**
 - 🌱 I’m currently learning **Deep Learning**, **Reinforcement Learning** for Robotics
