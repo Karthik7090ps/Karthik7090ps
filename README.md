@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/karthik7090ps/electronics-banner/master/electronics.gif)](https://github.com/karthik7090ps)
 <h1 align="center">Hi 👋, I'm Karthik P S</h1>
-<h3 align="center">Engineering Student | Robotics Enthusiast | AI & Computer Vision Developer</h3>
+<h3 align="center">Engineering Student | Software Developer | Robotics Enthusiast | AI & Computer Vision Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
